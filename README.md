@@ -1,2 +1,4 @@
-# hello_world
-my first github
+# hello world
+
+Hello, everyone.
+    My name is Griffith.I'm study python now.
